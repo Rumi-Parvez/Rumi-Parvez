@@ -48,6 +48,10 @@ Skills: HTML / CSS/ JavaScript/ TypeScript/ React/ Tailwind CSS/ Node.js/ Next.j
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40" height="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://twitter.com/openyhoolceo" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="40" height="40" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://wa.me/8801407794143" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" width="40" height="40" alt="WhatsApp" />
   </a>
