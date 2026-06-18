@@ -37,25 +37,27 @@ Skills: HTML / CSS/ JavaScript/ TypeScript/ React/ Tailwind CSS/ Node.js/ Next.j
 
 <p align="left">
   <a href="https://linkedin.com/in/rumiparvez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/main/linkedin.png" width="40" height="40" alt="LinkedIn" style="max-width: 100%;">
   </a>
+  &nbsp;
   <a href="https://facebook.com/openyhoolceo" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/main/facebook.png" width="40" height="40" alt="Facebook" style="max-width: 100%;">
   </a>
+  &nbsp;
   <a href="https://instagram.com/openyhoolceo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/main/instagram.png" width="40" height="40" alt="Instagram" style="max-width: 100%;">
   </a>
-  <a href="https://twitter.com/openyhoolceo" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X/Twitter" />
+  &nbsp;
+  <a href="https://wa.me/8801407794143" target="_blank">
+    <img src="https://raw.githubusercontent.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/main/whatsapp.png" width="40" height="40" alt="WhatsApp" style="max-width: 100%;">
   </a>
+  &nbsp;
   <a href="https://youtube.com/@RumiParvez_Mystery" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://raw.githubusercontent.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/main/youtube.png" width="40" height="40" alt="YouTube" style="max-width: 100%;">
   </a>
-  <a href="https://github.com/Rumi-Parvez" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  &nbsp;
   <a href="https://ceo.openyhool.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-🌐-FF5722?style=for-the-badge&logoColor=white" alt="Website" />
+    <img src="https://img.icons8.com/color/48/000000/domain.png" width="40" height="40" alt="Website">
   </a>
 </p>
 
