@@ -39,9 +39,9 @@ My mission is to create innovative technology, support entrepreneurs, and build 
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/fluent/48/000000/typescript.png" width="45" height="45" alt="TypeScript" title="TypeScript" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-development-shadow-tal-revivo.png" width="45" height="45" alt="React" title="React" />
+  <img src="https://img.icons8.com/plasticine/48/000000/react.png" width="45" height="45" alt="React" title="React" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluent/48/000000/tailwind-css.png" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" />
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/fluent/48/000000/node-js.png" width="45" height="45" alt="Node.js" title="Node.js" />
   &nbsp;&nbsp;
