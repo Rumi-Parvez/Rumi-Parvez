@@ -24,7 +24,31 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 - Business Growth & Entrepreneurship
 - Digital Tools & Productivity Solutions
 
-Skills: HTML / CSS/ JavaScript/ TypeScript/ React/ Tailwind CSS/ Node.js/ Next.js/ MongoDB/ Mongoose/ BetterAuth
+<p align="left">
+  <img src="https://img.icons8.com/fluent/48/000000/html-5.png" width="45" height="45" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluent/48/000000/css3.png" width="45" height="45" alt="CSS3" title="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluent/48/000000/javascript.png" width="45" height="45" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluent/48/000000/typescript.png" width="45" height="45" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluent/48/000000/react++.png" width="45" height="45" alt="React" title="React" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluent/48/000000/node-js.png" width="45" height="45" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="45" height="45" alt="Next.js" title="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="45" height="45" alt="MongoDB" title="MongoDB" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/mongoose.png" width="45" height="45" alt="Mongoose" title="Mongoose" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluent/48/000000/privacy.png" width="45" height="45" alt="BetterAuth" title="BetterAuth" />
+</p>
+
+<br>
 
 - 🔭 I’m currently working on  OpenyHool Ecosystem 
 - 🌱 I’m currently learning on Programming Hero 
