@@ -37,27 +37,27 @@ Skills: HTML / CSS/ JavaScript/ TypeScript/ React/ Tailwind CSS/ Node.js/ Next.j
 
 <p align="left">
   <a href="https://linkedin.com/in/rumiparvez" target="_blank">
-    <img src="https://raw.githubusercontent.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/main/linkedin.png" width="40" height="40" alt="LinkedIn" style="max-width: 100%;">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://facebook.com/openyhoolceo" target="_blank">
-    <img src="https://raw.githubusercontent.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/main/facebook.png" width="40" height="40" alt="Facebook" style="max-width: 100%;">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40" height="40" alt="Facebook" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://instagram.com/openyhoolceo" target="_blank">
-    <img src="https://raw.githubusercontent.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/main/instagram.png" width="40" height="40" alt="Instagram" style="max-width: 100%;">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40" height="40" alt="Instagram" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://wa.me/8801407794143" target="_blank">
-    <img src="https://raw.githubusercontent.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/main/whatsapp.png" width="40" height="40" alt="WhatsApp" style="max-width: 100%;">
+    <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" width="40" height="40" alt="WhatsApp" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://youtube.com/@RumiParvez_Mystery" target="_blank">
-    <img src="https://raw.githubusercontent.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/main/youtube.png" width="40" height="40" alt="YouTube" style="max-width: 100%;">
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" width="40" height="40" alt="YouTube" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://ceo.openyhool.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/domain.png" width="40" height="40" alt="Website">
+    <img src="https://img.icons8.com/fluent/48/000000/domain.png" width="40" height="40" alt="Website" />
   </a>
 </p>
 
