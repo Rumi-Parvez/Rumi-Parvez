@@ -26,6 +26,8 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 
 <br>
 
+<br>
+
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
@@ -37,13 +39,13 @@ My mission is to create innovative technology, support entrepreneurs, and build 
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/fluent/48/000000/typescript.png" width="45" height="45" alt="TypeScript" title="TypeScript" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/plasticine/48/000000/react.png" width="45" height="45" alt="React" title="React" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-development-shadow-tal-revivo.png" width="45" height="45" alt="React" title="React" />
   &nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/fluent/48/000000/tailwind-css.png" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" />
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/fluent/48/000000/node-js.png" width="45" height="45" alt="Node.js" title="Node.js" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="45" height="45" alt="Next.js" title="Next.js" />
+  <img src="https://img.icons8.com/fluent/48/000000/nextjs.png" width="45" height="45" alt="Next.js" title="Next.js" />
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="45" height="45" alt="MongoDB" title="MongoDB" />
   &nbsp;&nbsp;
@@ -53,7 +55,6 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 </p>
 
 <br>
-
 
 - 🔭 I’m currently working on  OpenyHool Ecosystem 
 - 🌱 I’m currently learning on Programming Hero 
