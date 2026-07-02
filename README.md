@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://i.postimg.cc/SRCNvxSB/Turning-Ideas-into-Powerful-Digital-Realities.png" alt="Turning Ideas into Powerful Digital Realities" width="100%">
+</p>
 
 ### Hi there 👋, I'm Rumi Parvez
 #### Founder & CEO of OpenyHool   
