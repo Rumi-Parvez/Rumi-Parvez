@@ -15,29 +15,37 @@ I am passionate about building software, AI solutions, websites, mobile applicat
 My mission is to create innovative technology, support entrepreneurs, and build a strong ecosystem where anyone can turn ideas into successful businesses.
 
 ---
+<div align="center">
 
-<table>
-  <tr>
-    <td width="340" align="center">
-      <a href="https://gitfut.com/Rumi-Parvez">
-        <img src="https://gitfut.com/Rumi-Parvez.png" width="300" alt="GitFut Card" />
-      </a>
-    </td>
-    <td valign="top">
+<table width="100%">
+<tr>
 
-## 🚀 What I'm Working On
+<td width="45%" align="center" valign="middle">
+<a href="https://gitfut.com/Rumi-Parvez">
+<img src="https://gitfut.com/Rumi-Parvez.png" width="320" alt="GitFut Card"/>
+</a>
+</td>
 
-- 🌐 Building **OpenyHool**
-- 🤖 Developing **AI-powered products**
-- 💻 Creating **Web Applications**
-- 📱 Developing **Mobile Apps**
-- ⚙️ Software Development
-- 📈 Business Growth & Entrepreneurship
-- 🛠️ Digital Tools & Productivity Solutions
+<td width="55%" valign="middle">
 
-  </td>
-  </tr>
+<h2>🚀 What I'm Working On</h2>
+
+<ul>
+  <li><strong>🌐 Building OpenyHool</strong></li>
+  <li><strong>🤖 Developing AI-powered Products</strong></li>
+  <li><strong>💻 Creating Web Applications</strong></li>
+  <li><strong>📱 Developing Mobile Apps</strong></li>
+  <li><strong>⚙️ Software Development</strong></li>
+  <li><strong>📈 Business Growth & Entrepreneurship</strong></li>
+  <li><strong>🛠️ Digital Tools & Productivity Solutions</strong></li>
+</ul>
+
+</td>
+
+</tr>
 </table>
+
+</div>
 
 <br>
 
