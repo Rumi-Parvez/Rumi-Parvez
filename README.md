@@ -3,6 +3,7 @@
   <img src="https://i.postimg.cc/SRCNvxSB/Turning-Ideas-into-Powerful-Digital-Realities.png" alt="Turning Ideas into Powerful Digital Realities" width="100%">
 </p>
 
+
 ### Hi there 👋, I'm Rumi Parvez
 #### Founder & CEO of OpenyHool   
 
@@ -14,6 +15,8 @@ I am passionate about building software, AI solutions, websites, mobile applicat
 My mission is to create innovative technology, support entrepreneurs, and build a strong ecosystem where anyone can turn ideas into successful businesses.
 
 ---
+
+[![My GitFut card](https://gitfut.com/Rumi-Parvez.png)](https://gitfut.com/Rumi-Parvez)
 
 ## 🚀 What I'm Working On
 
