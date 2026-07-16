@@ -16,17 +16,28 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 
 ---
 
-[![My GitFut card](https://gitfut.com/Rumi-Parvez.png)](https://gitfut.com/Rumi-Parvez)
+<table>
+  <tr>
+    <td width="340" align="center">
+      <a href="https://gitfut.com/Rumi-Parvez">
+        <img src="https://gitfut.com/Rumi-Parvez.png" width="300" alt="GitFut Card" />
+      </a>
+    </td>
+    <td valign="top">
 
 ## 🚀 What I'm Working On
 
-- Building OpenyHool
-- Developing AI-powered products
-- Creating Web Applications
-- Developing Mobile Apps
-- Software Development
-- Business Growth & Entrepreneurship
-- Digital Tools & Productivity Solutions
+- 🌐 Building **OpenyHool**
+- 🤖 Developing **AI-powered products**
+- 💻 Creating **Web Applications**
+- 📱 Developing **Mobile Apps**
+- ⚙️ Software Development
+- 📈 Business Growth & Entrepreneurship
+- 🛠️ Digital Tools & Productivity Solutions
+
+  </td>
+  </tr>
+</table>
 
 <br>
 
