@@ -84,7 +84,7 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 - 👯 I’m looking to collaborate on Google & Nasa 
 - 🤔 I’m looking for help with Scaling OpenyHool globally and connecting with developer communities 
 - 💬 Ask me about Any type of Websites. 
-- 📫 How to reach me: support@openyhool.com or openyhoolceo@gmail.com | https://openyhool.com 
+- 📫 How to reach me: support@openyhool.com or openyhoolceo@gmail.com | rumiparvez.openyhool.com
 - ⚡ Fun fact: I'm building an entire tech ecosystem (OpenyHool) out of Dhaka, Bangladesh, to empower the next generation of entrepreneurs! 
 
 
