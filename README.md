@@ -93,7 +93,7 @@ My mission is to create innovative technology, support entrepreneurs, and build 
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://facebook.com/openyhoolceo" target="_blank">
+  <a href="https://www.facebook.com/rumiparvezofficial" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40" height="40" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
