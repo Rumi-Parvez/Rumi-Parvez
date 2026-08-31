@@ -124,7 +124,6 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/Rumi-Parvez)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rumi-Parvez)  
 
