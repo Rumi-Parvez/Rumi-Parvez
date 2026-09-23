@@ -28,7 +28,7 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 
 <ul>
   <li><strong>🌐 Building OpenyHool</strong></li>
-  <li><strong>🤖 Developing AI-powered Products</strong></li>
+  <li><strong>🤖 Developing AI Products</strong></li>
   <li><strong>💻 Creating Web Applications</strong></li>
   <li><strong>📱 Developing Mobile Apps</strong></li>
   <li><strong>⚙️ Software Development</strong></li>
