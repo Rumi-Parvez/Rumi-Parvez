@@ -116,6 +116,7 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 
 
 
+<br>
 
 <p >Contributions in the last year</p>
 <p align="center">
