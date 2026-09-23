@@ -48,7 +48,7 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 <br>
 <ul>
   <li><em>🔭 I’m currently working on: OpenyHool Ecosystem</em></li>
-  <li><em>🌱 I’m currently learning: Programming Hero</em></li>
+  <li><em>🌱 I’m currently learning: Programming with new technology </em></li>
   <li><em>👯 I’m looking to collaborate on: Google &amp; NASA</em></li>
   <li><em>🤔 I’m looking for help with: Scaling OpenyHool globally and connecting with developer communities</em></li>
   <li><em>💬 Ask me about: Any type of Websites</em></li>
@@ -116,7 +116,15 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 
 
 
+<br>
 
+<p >Contributions in the last year</p>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Rumi-Parvez/Rumi-Parvez/output/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 
 
@@ -125,5 +133,4 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 | GitHub Streak | Social Media |
 |:---:|:---:|
 | ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rumi-Parvez) | <a href="https://www.facebook.com/rumiparvezofficial" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40" alt="Facebook"></a>&nbsp;&nbsp;<a href="https://instagram.com/openyhoolceo" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40" alt="Instagram"></a>&nbsp;&nbsp;<a href="https://twitter.com/openyhoolceo" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="40" alt="Twitter"></a>&nbsp;&nbsp;<a href="https://wa.me/8801407794143" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" width="40" alt="WhatsApp"></a>&nbsp;&nbsp;<a href="https://youtube.com/@RumiParvez_Mystery" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" width="40" alt="YouTube"></a>&nbsp;&nbsp;<a href="https://ceo.openyhool.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="40" alt="Website"></a> |
-
 
