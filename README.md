@@ -130,23 +130,6 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 
 
 
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="200"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="./profile/top-langs.svg"
-    height="200"
-    alt="Most Used Languages"
-  />
-</p>
-
 <br>
 
 | GitHub Streak | Social Media |
