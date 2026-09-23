@@ -47,31 +47,68 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 
 <br>
 
-### 🛠️ Tech Stack & Skills
+<div align="center">
+<section style="min-height: 100vh; display: flex; justify-content: center; align-items: center;">
+<h1> 🛠️ Tech Stack & Skills</h1>
+  <table>
+<tr>
+<td width="50%" align="center">
+<h3>Web Development</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwindcss">
+</td>
 
-<p align="left">
-  <img src="https://img.icons8.com/fluent/48/000000/html-5.png" width="45" height="45" alt="HTML5" title="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluent/48/000000/css3.png" width="45" height="45" alt="CSS3" title="CSS3" />
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluent/48/000000/javascript.png" width="45" height="45" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluent/48/000000/typescript.png" width="45" height="45" alt="TypeScript" title="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/plasticine/48/000000/react.png" width="45" height="45" alt="React" title="React" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" />
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluent/48/000000/node-js.png" width="45" height="45" alt="Node.js" title="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluent/48/000000/nextjs.png" width="45" height="45" alt="Next.js" title="Next.js" />
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="45" height="45" alt="MongoDB" title="MongoDB" />
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/mongoose.png" width="45" height="45" alt="Mongoose" title="Mongoose" />
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluent/48/000000/privacy.png" width="45" height="45" alt="BetterAuth" title="BetterAuth" />
-</p>
+<td width="50%" align="center">
+<h3>Programming & APIs</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,api,ts">
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>Backend & Database</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,firebase,supabase,postgresql,mongodb,redis">
+</td>
+
+<td width="50%" align="center">
+<h3>UI/UX & Design</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,photoshop,canva">
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<h3>Development Tools</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,vscode,terminal,bash,npm,yarn">
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>DevOps & Cloud</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,vercel,netlify,linux,windows">
+</td>
+
+<td width="50%" align="center">
+<h3>AI & Productivity</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,grok">
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>Analytics & Web</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=googleanalytics,wordpress">
+</td>
+
+<td width="50%" align="center">
+<h3>Deployment & Services</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase,supabase,docker,github">
+</td>
+</tr>
+</table>
+</section>
+</div>
+
 
 <br>
 
@@ -84,39 +121,9 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 - ⚡ Fun fact: I'm building an entire tech ecosystem (OpenyHool) out of Dhaka, Bangladesh, to empower the next generation of entrepreneurs! 
 
 
-<p align="left">
-  <a href="https://linkedin.com/in/rumiparvez" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/rumiparvezofficial" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40" height="40" alt="Facebook" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/openyhoolceo" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40" height="40" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/openyhoolceo" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="40" height="40" alt="Twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/8801407794143" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" width="40" height="40" alt="WhatsApp" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://youtube.com/@RumiParvez_Mystery" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" width="40" height="40" alt="YouTube" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ceo.openyhool.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/domain.png" width="40" height="40" alt="Website" />
-  </a>
-</p>
+
 
 <br>
-
-
 
 
 
