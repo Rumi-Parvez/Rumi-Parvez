@@ -6,6 +6,10 @@ on:
 
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -14,12 +18,11 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate Dark Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Rumi-Parvez
           outputs: |
-            dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Publish Snake
