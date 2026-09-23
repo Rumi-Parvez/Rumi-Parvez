@@ -7,11 +7,7 @@
 ### Hi there 👋, I'm Rumi Parvez
 #### Founder & CEO of OpenyHool   
 
-
-I'm Rumi Parvez, the Founder & CEO of OpenyHool.
-
 I am passionate about building software, AI solutions, websites, mobile applications, and digital products that help people and businesses grow.
-
 My mission is to create innovative technology, support entrepreneurs, and build a strong ecosystem where anyone can turn ideas into successful businesses.
 
 ---
