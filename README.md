@@ -128,9 +128,13 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 
 <br>
 
+| GitHub Stats | Top Languages |
+|:---:|:---:|
+| [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Rumi-Parvez)](https://www.readmecodegen.com/custom-github-card-generator)  | [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Rumi-Parvez&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator) |
 
 
 <br>
+
 
 | GitHub Streak | Social Media |
 |:---:|:---:|
