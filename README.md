@@ -48,7 +48,7 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 <br>
 <ul>
   <li><em>🔭 I’m currently working on: OpenyHool Ecosystem</em></li>
-  <li><em>🌱 I’m currently learning: Programming Hero</em></li>
+  <li><em>🌱 I’m currently learning: Programming with new technology </em></li>
   <li><em>👯 I’m looking to collaborate on: Google &amp; NASA</em></li>
   <li><em>🤔 I’m looking for help with: Scaling OpenyHool globally and connecting with developer communities</em></li>
   <li><em>💬 Ask me about: Any type of Websites</em></li>
