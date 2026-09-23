@@ -46,7 +46,15 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 <br>
 
 <br>
-
+<ul>
+  <li><em>🔭 I’m currently working on: OpenyHool Ecosystem</em></li>
+  <li><em>🌱 I’m currently learning: Programming Hero</em></li>
+  <li><em>👯 I’m looking to collaborate on: Google &amp; NASA</em></li>
+  <li><em>🤔 I’m looking for help with: Scaling OpenyHool globally and connecting with developer communities</em></li>
+  <li><em>💬 Ask me about: Any type of Websites</em></li>
+  <li><em>📫 How to reach me: support@openyhool.com · openyhoolceo@gmail.com · www.rumiparvez.openyhool.com</em></li>
+  <li><em>⚡ Fun fact: I’m building an entire tech ecosystem (OpenyHool) out of Dhaka, Bangladesh, to empower the next generation of entrepreneurs!</em></li>
+</ul>
 <div align="center">
 <section style="min-height: 100vh; display: flex; justify-content: center; align-items: center;">
 <h1> 🛠️ Tech Stack & Skills</h1>
@@ -87,46 +95,35 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 <h3>DevOps & Cloud</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,vercel,netlify,linux,windows">
 </td>
-
-<td width="50%" align="center">
-<h3>AI & Productivity</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,grok">
-</td>
-</tr>
-
-<tr>
 <td width="50%" align="center">
 <h3>Analytics & Web</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=googleanalytics,wordpress">
 </td>
 
-<td width="50%" align="center">
-<h3>Deployment & Services</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase,supabase,docker,github">
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<h3>AI & Productivity</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,grok">
 </td>
 </tr>
+
 </table>
 </section>
 </div>
 
 
-<br>
 
-- 🔭 I’m currently working on  OpenyHool Ecosystem 
-- 🌱 I’m currently learning on Programming Hero 
-- 👯 I’m looking to collaborate on Google & Nasa 
-- 🤔 I’m looking for help with Scaling OpenyHool globally and connecting with developer communities 
-- 💬 Ask me about Any type of Websites. 
-- 📫 How to reach me: support@openyhool.com or openyhoolceo@gmail.com | www.rumiparvez.openyhool.com
-- ⚡ Fun fact: I'm building an entire tech ecosystem (OpenyHool) out of Dhaka, Bangladesh, to empower the next generation of entrepreneurs! 
+
 
 
 
 
 <br>
 
+| GitHub Streak | Social Media |
+|:---:|:---:|
+| ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rumi-Parvez) | <a href="https://www.facebook.com/rumiparvezofficial" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40" alt="Facebook"></a>&nbsp;&nbsp;<a href="https://instagram.com/openyhoolceo" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40" alt="Instagram"></a>&nbsp;&nbsp;<a href="https://twitter.com/openyhoolceo" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="40" alt="Twitter"></a>&nbsp;&nbsp;<a href="https://wa.me/8801407794143" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" width="40" alt="WhatsApp"></a>&nbsp;&nbsp;<a href="https://youtube.com/@RumiParvez_Mystery" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" width="40" alt="YouTube"></a>&nbsp;&nbsp;<a href="https://ceo.openyhool.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="40" alt="Website"></a> |
 
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Rumi-Parvez)  
 
