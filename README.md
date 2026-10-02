@@ -128,9 +128,9 @@ My mission is to create innovative technology, support entrepreneurs, and build 
 
 <br>
 
-| GitHub Stats | Top Languages |
+| Who am I? | Top Languages |
 |:---:|:---:|
-| [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Rumi-Parvez)](https://www.readmecodegen.com/custom-github-card-generator)  | [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Rumi-Parvez&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator) |
+|![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=A%20full%20Stack%20Web%20developer%20%3D%3D%3D%3D%3E%20Rumi%20Parvez&theme=shadow&color=%237a0000&particleColor=%23ffd500&background=%23ffffff) | [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Rumi-Parvez&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator) |
 
 
 <br>
